@@ -1,0 +1,77 @@
+@media screen and (max-width: 768px) {
+    .topbar-left,.topbar-right{
+        float: left;
+        text-align: center;        
+    }
+    .topbar-left .list-inline-item, .topbar-right .list-inline-item{
+        margin: 0 10px;
+    }
+    .overlay-text h3{
+        font-size: 17px;
+    }
+    .overlay-text h2{
+        font-size: 22px;
+    }
+    .overlay-text p{   
+        font-size: 14px;
+        margin-bottom: 25px !important;
+    }
+    .overlay-text a{
+        font-size: 12px;
+        padding: 5px 15px;
+    }
+    .blur-title h2{
+        font-size: 35px;
+    }
+    .front-title h3{
+        font-size: 22px;
+    }
+    .services img{
+        margin-bottom: 25px;
+    }
+    .booking-text h3{
+        font-size: 19px;
+    }
+    .features{
+        text-align: center;
+    }
+    .features-img{
+        padding-top: 0 !important;
+    }
+    .counter-box{
+        color: #eee;
+        width: auto;
+    }
+    .counter-box h4{
+        font-size: 15px;
+    }
+    .counter-box p{
+        font-size: 10px;
+    }
+    .counter-box i{
+        color: #95C41F;
+        text-align: center;
+    }
+    .counter{
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .overlay-text h3{
+        font-size: 13px;
+    }
+    .overlay-text h2{
+        font-size: 16px;
+        margin-bottom: 15px !important;
+    }
+    .overlay-text p{   
+        font-size: 12px;
+        margin-bottom: 15px !important;
+    }
+    .overlay-text a{
+        font-size: 12px;
+        padding: 3px 10px;
+    }
+    
+}
